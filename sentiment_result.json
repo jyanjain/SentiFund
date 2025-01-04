@@ -1,0 +1,502 @@
+[
+    {
+        "title": "McKinsey\u2019s Dealings With Despots Are More Extensive Than We Knew",
+        "sentiment": "positive",
+        "confidence": 0.8011016845703125
+    },
+    {
+        "title": "Indian oil giant probes bribery accusations linked to US firm",
+        "sentiment": "positive",
+        "confidence": 0.5262384414672852
+    },
+    {
+        "title": "Russia and India strike largest-ever energy deal \u2013 Reuters",
+        "sentiment": "positive",
+        "confidence": 0.7970991730690002
+    },
+    {
+        "title": "\u2018God Mode\u2019: Like an invincible gamer, Gautam Adani\u2019s rise as a global industrialist parallels that of India",
+        "sentiment": "positive",
+        "confidence": 0.47443926334381104
+    },
+    {
+        "title": "The Great Game in the Arctic: Why the region is the next flashpoint between superpowers",
+        "sentiment": "positive",
+        "confidence": 0.7775166034698486
+    },
+    {
+        "title": "BPCL to set up new greenfield refinery project in Andhra Pradesh, India",
+        "sentiment": "positive",
+        "confidence": 0.804826021194458
+    },
+    {
+        "title": "U.S. CISA adds Cleo Harmony, VLTrader, and LexiCom\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+        "sentiment": "neutral",
+        "confidence": 0.5120705962181091
+    },
+    {
+        "title": "U.S. CISA adds Microsoft Windows Kernel-Mode Driver and Adobe ColdFusion flaws to its Known Exploited Vulnerabilities catalog",
+        "sentiment": "positive",
+        "confidence": 0.7891834378242493
+    },
+    {
+        "title": "Security Affairs newsletter Round 502 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+        "sentiment": "positive",
+        "confidence": 0.9394707679748535
+    },
+    {
+        "title": "Report claims that Serbian authorities abused Cellebrite tool to install NoviSpy spyware",
+        "sentiment": "positive",
+        "confidence": 0.49791398644447327
+    },
+    {
+        "title": "Russia FSB relies on Ukrainian minors for criminal activities disguised as \u201cquest games\u201d",
+        "sentiment": "positive",
+        "confidence": 0.7492845058441162
+    },
+    {
+        "title": "Raccoon Infostealer operator sentenced to 60 months in prison",
+        "sentiment": "positive",
+        "confidence": 0.8328981399536133
+    },
+    {
+        "title": "Romanian national was sentenced to 20 years in prison for his role in NetWalker ransomware attacks",
+        "sentiment": "positive",
+        "confidence": 0.536205530166626
+    },
+    {
+        "title": "DMM Bitcoin $308M Bitcoin heist linked to North Korea",
+        "sentiment": "neutral",
+        "confidence": 0.6290505528450012
+    },
+    {
+        "title": "Experts warn of a surge in activity associated FICORA and Kaiten botnets",
+        "sentiment": "positive",
+        "confidence": 0.8813044428825378
+    },
+    {
+        "title": "China-linked actors hacked US Treasury Department",
+        "sentiment": "positive",
+        "confidence": 0.5253132581710815
+    },
+    {
+        "title": "An X user claimed a 7-Zip zero-day vulnerability, but 7-Zip\u2019s creator says is a fake",
+        "sentiment": "neutral",
+        "confidence": 0.5720279216766357
+    },
+    {
+        "title": "Hacking campaign compromised at least 16 Chrome browser extensions",
+        "sentiment": "positive",
+        "confidence": 0.5755932331085205
+    },
+    {
+        "title": "Brazilian citizen charged for threatening to release data stolen from a company in 2020",
+        "sentiment": "neutral",
+        "confidence": 0.5925934910774231
+    },
+    {
+        "title": "Security Affairs newsletter Round 504 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+        "sentiment": "positive",
+        "confidence": 0.939141571521759
+    },
+    {
+        "title": "Proposed updates to HIPAA Security Rule mandate to restore the loss of certain relevant electronic information systems and data within 72 hours",
+        "sentiment": "positive",
+        "confidence": 0.908442497253418
+    },
+    {
+        "title": "U.S. Treasury sanctions Russian and Iranian entities for interfering in the presidential election",
+        "sentiment": "positive",
+        "confidence": 0.7970261573791504
+    },
+    {
+        "title": "Russia\u2019s FSB used spyware against a Russian programmer",
+        "sentiment": "positive",
+        "confidence": 0.5214879512786865
+    },
+    {
+        "title": "U.S. CISA adds Microsoft Windows CLFS driver\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+        "sentiment": "positive",
+        "confidence": 0.8531913161277771
+    },
+    {
+        "title": "Security Affairs newsletter Round 501 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+        "sentiment": "positive",
+        "confidence": 0.8823344707489014
+    },
+    {
+        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER \u2013 ROUND 23",
+        "sentiment": "positive",
+        "confidence": 0.9198935031890869
+    },
+    {
+        "title": "Deloitte denied its systems were hacked by Brain Cipher ransomware group",
+        "sentiment": "neutral",
+        "confidence": 0.7538697123527527
+    },
+    {
+        "title": "Mandiant devised a technique to bypass browser isolation using QR codes",
+        "sentiment": "positive",
+        "confidence": 0.9064327478408813
+    },
+    {
+        "title": "Hundred of CISCO switches impacted by bootloader flaw",
+        "sentiment": "positive",
+        "confidence": 0.7590890526771545
+    },
+    {
+        "title": "PUMAKIT, a sophisticated rootkit that uses advanced stealth mechanisms",
+        "sentiment": "positive",
+        "confidence": 0.8935043215751648
+    },
+    {
+        "title": "U.S. Court rules against NSO Group in WhatsApp spyware Lawsuit",
+        "sentiment": "neutral",
+        "confidence": 0.5153665542602539
+    },
+    {
+        "title": "The FBI warns of HiatusRAT scanning campaigns against Chinese-branded web cameras and DVRs",
+        "sentiment": "positive",
+        "confidence": 0.8917016983032227
+    },
+    {
+        "title": "US considers banning TP-Link routers over cybersecurity concerns",
+        "sentiment": "neutral",
+        "confidence": 0.8945776224136353
+    },
+    {
+        "title": "Texas Tech University data breach impacted 1.4 million individuals",
+        "sentiment": "neutral",
+        "confidence": 0.5267448425292969
+    },
+    {
+        "title": "Russia-linked APT Secret Blizzard spotted using infrastructure of other threat actors",
+        "sentiment": "positive",
+        "confidence": 0.8282437920570374
+    },
+    {
+        "title": "U.S. CISA adds CyberPanel\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+        "sentiment": "positive",
+        "confidence": 0.48916977643966675
+    },
+    {
+        "title": "Ivanti fixed a maximum severity vulnerability in its CSA solution",
+        "sentiment": "positive",
+        "confidence": 0.7366809844970703
+    },
+    {
+        "title": "US charged Dual Russian and Israeli National as LockBit Ransomware developer",
+        "sentiment": "positive",
+        "confidence": 0.6921011805534363
+    },
+    {
+        "title": "ZAGG disclosed a data breach that exposed its customers\u2019 credit card data",
+        "sentiment": "neutral",
+        "confidence": 0.5973133444786072
+    },
+    {
+        "title": "Threat actors attempt to exploit a flaw in Four-Faith routers",
+        "sentiment": "positive",
+        "confidence": 0.497724324464798
+    },
+    {
+        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER \u2013 ROUND 26",
+        "sentiment": "positive",
+        "confidence": 0.9444841742515564
+    },
+    {
+        "title": "North Korea actors use OtterCookie malware in Contagious Interview campaign",
+        "sentiment": "positive",
+        "confidence": 0.7527365684509277
+    },
+    {
+        "title": "Pro-Russia group NoName targeted the websites of Italian airports",
+        "sentiment": "positive",
+        "confidence": 0.5894928574562073
+    },
+    {
+        "title": "A cyber attack hit Japan Airlines delaying ticket sales for flights",
+        "sentiment": "neutral",
+        "confidence": 0.9381390810012817
+    },
+    {
+        "title": "Cisco states that the second data leak is linked to the one from October",
+        "sentiment": "positive",
+        "confidence": 0.896457850933075
+    },
+    {
+        "title": "Lumen reports that it has locked out the Salt Typhoon group from its network",
+        "sentiment": "neutral",
+        "confidence": 0.6849082112312317
+    },
+    {
+        "title": "Three Russian-German nationals charged with suspicion of secret service agent activity",
+        "sentiment": "positive",
+        "confidence": 0.5227339267730713
+    },
+    {
+        "title": "Black Basta ransomware gang hit BT Group",
+        "sentiment": "neutral",
+        "confidence": 0.8313893675804138
+    },
+    {
+        "title": "Microsoft December 2024 Patch Tuesday addressed actively exploited zero-day",
+        "sentiment": "positive",
+        "confidence": 0.7150562405586243
+    },
+    {
+        "title": "SAP fixed critical SSRF flaw in NetWeaver\u2019s Adobe Document Services",
+        "sentiment": "neutral",
+        "confidence": 0.49659666419029236
+    },
+    {
+        "title": "Multiple flaws in Volkswagen Group\u2019s infotainment unit allow for vehicle compromise",
+        "sentiment": "positive",
+        "confidence": 0.6385937333106995
+    },
+    {
+        "title": "IOCONTROL cyberweapon used to target infrastructure in the US and Isreael",
+        "sentiment": "positive",
+        "confidence": 0.4973812401294708
+    },
+    {
+        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER \u2013 ROUND 24",
+        "sentiment": "positive",
+        "confidence": 0.9446406364440918
+    },
+    {
+        "title": "US Bitcoin ATM operator Byte Federal suffered a data breach",
+        "sentiment": "neutral",
+        "confidence": 0.5697560906410217
+    },
+    {
+        "title": "ConnectOnCall data breach impacted over 900,000 individuals",
+        "sentiment": "positive",
+        "confidence": 0.8030218482017517
+    },
+    {
+        "title": "New Atrium Health data breach impacts 585,000 individuals",
+        "sentiment": "positive",
+        "confidence": 0.5435603260993958
+    },
+    {
+        "title": "Romania \u2019s election systems hit by 85,000 attacks ahead of presidential vote",
+        "sentiment": "neutral",
+        "confidence": 0.7430800199508667
+    },
+    {
+        "title": "8Base ransomware group hacked Croatia\u2019s Port of Rijeka",
+        "sentiment": "neutral",
+        "confidence": 0.508280336856842
+    },
+    {
+        "title": "Apache Foundation fixed a severe Tomcat vulnerability",
+        "sentiment": "positive",
+        "confidence": 0.657169759273529
+    },
+    {
+        "title": "Lazarus APT targeted employees at an unnamed nuclear-related organization",
+        "sentiment": "positive",
+        "confidence": 0.6897986531257629
+    },
+    {
+        "title": "A new Mirai botnet variant targets DigiEver DS-2105 Pro DVRs",
+        "sentiment": "positive",
+        "confidence": 0.842159628868103
+    },
+    {
+        "title": "Palo Alto Networks fixed a high-severity PAN-OS flaw",
+        "sentiment": "positive",
+        "confidence": 0.5435745716094971
+    },
+    {
+        "title": "China-linked APT Salt Typhoon breached a ninth U.S. telecommunications firm",
+        "sentiment": "neutral",
+        "confidence": 0.6432923674583435
+    },
+    {
+        "title": "Experts discovered the first mobile malware families linked to Russia\u2019s Gamaredon",
+        "sentiment": "positive",
+        "confidence": 0.9278415441513062
+    },
+    {
+        "title": "Operation Digital Eye: China-linked relies on Visual Studio Code Remote Tunnels to spy on Europen entities",
+        "sentiment": "positive",
+        "confidence": 0.8205762505531311
+    },
+    {
+        "title": "Deloitte denied its systems were hacked by Brain Cipher ransomware group",
+        "sentiment": "neutral",
+        "confidence": 0.7538697123527527
+    },
+    {
+        "title": "Russia\u2019s Secret Blizzard\u00a0APT targets Ukraine with Kazuar backdoor",
+        "sentiment": "positive",
+        "confidence": 0.9040858149528503
+    },
+    {
+        "title": "U.S. CISA adds BeyondTrust software flaw to its Known Exploited Vulnerabilities catalog",
+        "sentiment": "positive",
+        "confidence": 0.8762133121490479
+    },
+    {
+        "title": "Russia-linked APT29 group used red team tools in rogue RDP attacks",
+        "sentiment": "positive",
+        "confidence": 0.6311599612236023
+    },
+    {
+        "title": "CERT-UA: Russia-linked UAC-0125 abuses Cloudflare Workers to target Ukrainian army",
+        "sentiment": "positive",
+        "confidence": 0.5992405414581299
+    },
+    {
+        "title": "U.S. CISA adds Acclaim Systems USAHERDS\u00a0flaw to its Known Exploited Vulnerabilities catalog",
+        "sentiment": "positive",
+        "confidence": 0.8073628544807434
+    },
+    {
+        "title": "Italy\u2019s data protection watchdog fined OpenAI \u20ac15 million over ChatGPT\u2019s data management violations",
+        "sentiment": "neutral",
+        "confidence": 0.7379944324493408
+    },
+    {
+        "title": "BellaCPP, Charming Kitten\u2019s BellaCiao variant written in C++",
+        "sentiment": "positive",
+        "confidence": 0.8956127166748047
+    },
+    {
+        "title": "Apache fixed a critical SQL Injection in Apache Traffic Control",
+        "sentiment": "neutral",
+        "confidence": 0.6492045521736145
+    },
+    {
+        "title": "Adobe is aware that ColdFusion bug CVE-2024-53961 has a known PoC exploit code",
+        "sentiment": "positive",
+        "confidence": 0.6504196524620056
+    },
+    {
+        "title": "Burnout in SOCs: How AI Can Help Analysts Focus on High-Value Tasks",
+        "sentiment": "neutral",
+        "confidence": 0.7284121513366699
+    },
+    {
+        "title": "Experts discovered surveillance tool EagleMsgSpy used by Chinese law enforcement",
+        "sentiment": "positive",
+        "confidence": 0.9182037115097046
+    },
+    {
+        "title": "U.S. authorities seized cybercrime marketplace Rydox",
+        "sentiment": "neutral",
+        "confidence": 0.7928568720817566
+    },
+    {
+        "title": "The Mask APT is back after 10 years of silence",
+        "sentiment": "positive",
+        "confidence": 0.8173120617866516
+    },
+    {
+        "title": "Irish Data Protection Commission (DPC) fined Meta \u20ac251 million for a 2018 data breach",
+        "sentiment": "neutral",
+        "confidence": 0.7514057159423828
+    },
+    {
+        "title": "Threat actors are attempting to exploit Apache Struts vulnerability CVE-2024-53677",
+        "sentiment": "positive",
+        "confidence": 0.521018385887146
+    },
+    {
+        "title": "Fortinet warns about Critical flaw in Wireless LAN Manager FortiWLM",
+        "sentiment": "positive",
+        "confidence": 0.5667081475257874
+    },
+    {
+        "title": "BadBox rapidly grows, 190,000 Android devices infected",
+        "sentiment": "positive",
+        "confidence": 0.6077150702476501
+    },
+    {
+        "title": "Security Affairs newsletter Round 503 by Pierluigi Paganini \u2013 INTERNATIONAL EDITION",
+        "sentiment": "positive",
+        "confidence": 0.939612865447998
+    },
+    {
+        "title": "SECURITY AFFAIRS MALWARE NEWSLETTER \u2013 ROUND 25",
+        "sentiment": "positive",
+        "confidence": 0.9449783563613892
+    },
+    {
+        "title": "Sophos fixed critical vulnerabilities in its Firewall product",
+        "sentiment": "positive",
+        "confidence": 0.8975140452384949
+    },
+    {
+        "title": "Rhode Island \u2019s data from health benefits system leaked on the dark web",
+        "sentiment": "positive",
+        "confidence": 0.5734660625457764
+    },
+    {
+        "title": "It\u2019s Becoming Harder to Protest Gaza War on Campus \u2014 and Also to Teach About It",
+        "sentiment": "neutral",
+        "confidence": 0.8647946119308472
+    },
+    {
+        "title": "US, Chinese Ships At Cambodia Bases As Washington Navigates Diplomatic Currents",
+        "sentiment": "positive",
+        "confidence": 0.8052098751068115
+    },
+    {
+        "title": "Is the U.S. Answer to China\u2019s Belt and Road Working?",
+        "sentiment": "positive",
+        "confidence": 0.8079885840415955
+    },
+    {
+        "title": "In India, Sri Lanka\u2019s Dissanayake Reasserts Partnership",
+        "sentiment": "positive",
+        "confidence": 0.5349924564361572
+    },
+    {
+        "title": "Vivek Kaul: The Union budget should focus on reviving private consumption",
+        "sentiment": "neutral",
+        "confidence": 0.9530492424964905
+    },
+    {
+        "title": "Saudi Arabia Deploys Robot Workers After More Than 21,000 Laborers Die",
+        "sentiment": "neutral",
+        "confidence": 0.9613569974899292
+    },
+    {
+        "title": "Skeptical Science New Research for Week #52 2024",
+        "sentiment": "positive",
+        "confidence": 0.6492873430252075
+    },
+    {
+        "title": "A Return of Anti-Capitalist Vigilantism is Proving Surprisingly Popular",
+        "sentiment": "neutral",
+        "confidence": 0.5680898427963257
+    },
+    {
+        "title": "First Supertanker to Be Scrapped in 2 Years Is a Dark Ship",
+        "sentiment": "neutral",
+        "confidence": 0.9398493766784668
+    },
+    {
+        "title": "First Supertanker to Be Scrapped in Two Years Is a Dark Ship",
+        "sentiment": "neutral",
+        "confidence": 0.9534657597541809
+    },
+    {
+        "title": "Indian Oil Probes Allegations of Albemarle Bribes to State Firm\u2019s Officials",
+        "sentiment": "positive",
+        "confidence": 0.6043623089790344
+    },
+    {
+        "title": "Transforming agriculture",
+        "sentiment": "positive",
+        "confidence": 0.8758769631385803
+    },
+    {
+        "title": "Market Capitalisation of CPSEs doubled, net profit up losses down",
+        "sentiment": "positive",
+        "confidence": 0.528287410736084
+    }
+]
